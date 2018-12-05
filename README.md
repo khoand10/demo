@@ -7,5 +7,4 @@ _ test4 _
 ~~ test5 ~~
 > test3
 
-[id2]:     http://long-url.com
-[long id]: http://a.com        "link"
+[Markdown site][google.com]
