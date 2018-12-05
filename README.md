@@ -7,4 +7,5 @@ _ test4 _
 ~~ test5 ~~
 > test3
 
-[Markdown site][<https://github.com/joemccann/dillinger>]
+[Markdown site][df1]
+[df1]: <http://daringfireball.net/projects/markdown/>
